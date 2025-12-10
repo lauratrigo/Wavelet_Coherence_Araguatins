@@ -24,11 +24,9 @@ O objetivo é investigar o acoplamento espectral entre a ionosfera e perturbaç�
 
 ---
 
-## 🎯 Objetivo Científico
+💡 Objetivo
 
-- Coerência espectral entre ionosfera e sinais elétricos
-- Identificação de periodicidades 0,25–31 dias
-- Avaliação da evolução temporal de agosto de 2017
+- Aplicar análise de **coerência wavelet contínua (WCOH)** para identificar padrões espectro-temporais e períodos dominantes em séries temporais de parâmetros **ionosféricos** (`foF2`, `hF`, `hmF2`) e **elétricos** (`Vd_mean`, `Vd_storm`, `Vd_total`, `PPEF`, `DDEF`) medidos na estação **Araguatins (TO)** durante **agosto de 2017**.
 
 ---
 
