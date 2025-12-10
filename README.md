@@ -63,7 +63,7 @@ cd wcoh-arg
 ```bash
 run wav_fejer_arg_com_vd.m
 ```
-Os gráficos serão salvos em images.
+Os gráficos serão salvos em images/.
 
 ---
 
